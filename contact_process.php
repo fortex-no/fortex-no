@@ -1,6 +1,6 @@
 <?php
 
-    $to = "support@fortex.no";
+    $to = "post@fortex.no";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $subject = $_REQUEST['subject'];
