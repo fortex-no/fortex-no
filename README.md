@@ -1,2 +1,1 @@
-# fortex.no
-The HTML version of fortex.no
+# fortex.no is currently down
