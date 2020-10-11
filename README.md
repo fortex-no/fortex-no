@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Fortex.no is: ✔ LIVE</h1>
-<h3>No downtime planned today 📌</h3>
+<h1>Fortex.no er: ✔ LIVE</h1>
+<h3>Ingen nedetid er planlagt i dag 📌</h3>
 
 </div>
 
